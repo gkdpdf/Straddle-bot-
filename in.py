@@ -6,11 +6,11 @@ import pandas as pd
 import streamlit as st
 
 # api credentials
-uid = 'FA153221'
-pwd = 'Gaurav@1234'
+uid = 'xxxx'
+pwd = 'xxx@1234'
 vc = 'FA153221_U'
-app_key = 'bfbdeedf98be606ab079462ca74eb37e'
-imei = 'abc1234'
+app_key = 'xxxxx'
+imei = 'xxx'
 
 # api object
 api = ShoonyaApiPy()
