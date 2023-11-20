@@ -7,8 +7,8 @@ import streamlit as st
 
 # api credentials
 uid = 'xxxx'
-pwd = 'xxx@1234'
-vc = 'FA153221_U'
+pwd = 'xxxxxxxx'
+vc = 'xxxxx'
 app_key = 'xxxxx'
 imei = 'xxx'
 
